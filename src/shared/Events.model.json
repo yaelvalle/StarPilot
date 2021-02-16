@@ -1,0 +1,29 @@
+{
+    "ClassName": "Folder",
+    "Children": [
+        {
+            "Name": "Deploy",
+            "ClassName": "BindableEvent"
+        },
+        {
+            "Name": "LoadPreview",
+            "ClassName": "BindableEvent"
+        },
+        {
+            "Name": "FireWeapons",
+            "ClassName": "BindableEvent"
+        },
+        {
+            "Name": "PreparePilotForLaunch",
+            "ClassName": "RemoteEvent"
+        },
+        {
+            "Name": "PilotDeployed",
+            "ClassName": "RemoteEvent"
+        },
+        {
+            "Name": "FireGuns",
+            "ClassName": "RemoteEvent"
+        }
+    ]
+}

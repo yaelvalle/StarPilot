@@ -1,0 +1,29 @@
+{
+  "name": "STAR PILOT",
+  "tree": {
+    "$className": "DataModel",
+    "StarterPlayer": {
+      "$className": "StarterPlayer",
+      "StarterPlayerScripts": {
+        "$className": "StarterPlayerScripts",
+        "$path": "src/client/runtime"
+      }
+    },
+    "ReplicatedFirst": {
+      "$className": "ReplicatedFirst",
+      "$path": "src/client/boot"
+    },
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "$path": "src/server/runtime"
+    },
+    "ServerStorage": {
+      "$className": "ServerStorage",
+      "$path": "src/server/storage"
+    },
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "$path": "src/shared"
+    }
+  }
+}

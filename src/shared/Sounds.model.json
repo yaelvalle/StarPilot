@@ -1,0 +1,12 @@
+{
+    "ClassName": "Folder",
+    "Children": [
+        {
+            "Name": "Fire",
+            "ClassName": "Sound",
+            "Properties": {
+                "SoundId": "rbxassetid://6373259348"
+            }
+        }
+    ]
+}

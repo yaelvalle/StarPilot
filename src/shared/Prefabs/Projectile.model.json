@@ -1,0 +1,22 @@
+{
+    "ClassName": "Part",
+    "Properties": {
+        "Size": [
+            2,
+            2,
+            6
+        ],
+        "CanCollide": false,
+        "Anchored": true,
+        "Material": "Neon",
+        "Color": {
+            "Type": "Color3uint8",
+            "Value": [
+                200,
+                0,
+                0
+            ]
+        }
+    },
+    "Children": []
+}
